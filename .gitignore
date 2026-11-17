@@ -1,0 +1,11 @@
+/src/generated/prisma
+/node_modules
+.env
+.vscode
+.claude
+.windsurf
+npm-debug.log
+tests
+dist
+tmp
+
